@@ -3,6 +3,8 @@
 __Pendente:__
 
 - O que é node.js?
+  - O que muda do Javascript do browser?
+  - Sistema de arquivos
 
 - Como instalar?
 
